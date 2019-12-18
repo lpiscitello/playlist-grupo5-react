@@ -1,0 +1,72 @@
+h3 {
+    border-bottom: 2px white solid;
+    color: white;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.m-t-50 {
+  margin-top: 80px;
+}
+
+.m-b-50 {
+  margin-bottom: 50px;
+}
+
+.playlist-list {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.playlist-list-duration {
+  font-size: 0.70em;
+}
+
+.playlist-list-div {
+  overflow-y: auto;
+  max-height: 600px;
+}
+
+.playlist-create {
+  display:scroll;
+  position: fixed;
+  bottom:10px;
+  right:10px;
+}
+
+.playlist-cancel {
+  display:scroll;
+  position: fixed;
+  bottom:10px;
+  right:140px;
+}
+
+.card-playlist-list {
+  width: 18rem;
+}
+
+.form-control-playlist {
+  border: 0px transparent;
+  background-color: transparent;
+  margin-left: 20px;
+  color: white;
+  border-bottom: whitesmoke;
+  width: 80%;
+}
+
+.icon-playlist {
+  cursor: pointer;
+}
+
+.display-none {
+  display: none;
+}
+
+.display {
+  display: '';
+}
+
+.image-playlist {
+  width: 286px;
+  height: 286px;
+}
